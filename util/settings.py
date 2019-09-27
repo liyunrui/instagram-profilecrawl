@@ -14,6 +14,7 @@ class Settings:
     profile_file_with_timestamp = True
     profile_commentors_file_with_timestamp = True
     followers_file_with_timestamp = True
+    limit_followers_of_followers = 100
 
     limit_amount = 3
     scrape_posts_infos = False
